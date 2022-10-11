@@ -1,7 +1,7 @@
 # Hello world!! :wave:
 
 
-I am a Physics Major Indian Institute of Science
+I am a Physics Major in Indian Institute of Science
 
 - :microscope: research: Condensed Matter Theory, Quantum Information Theory
 
