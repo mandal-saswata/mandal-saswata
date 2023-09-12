@@ -1,7 +1,7 @@
 # Hello world!! :wave:
 
 
-I am a Physics Major in Indian Institute of Science
+I am a Physics graduate student at Penn State
 
 - :microscope: research: Condensed Matter Theory, Quantum Information Theory
 
